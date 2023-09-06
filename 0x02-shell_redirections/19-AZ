@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'A' and 'c' | tr 'Z' and 'e'
